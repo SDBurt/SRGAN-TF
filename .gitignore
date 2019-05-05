@@ -1,0 +1,12 @@
+*.ini
+*.pyc
+*.pkl
+*.h5
+__pycache__/
+logs/
+saves/
+data/
+images/
+.venv
+.vscode
+
